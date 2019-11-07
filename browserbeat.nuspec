@@ -19,7 +19,7 @@
     <dependencies>
     </dependencies>
     <summary>Browserbeat is an open source shipper for real-time browser traffic analysis</summary>
-    <description><![CDATA[Contains the chocolatey package for packetbeat
+    <description><![CDATA[Contains the chocolatey package for browserbeat
 ]]></description>
     <releaseNotes></releaseNotes>
   </metadata>
