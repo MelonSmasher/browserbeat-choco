@@ -1,4 +1,4 @@
-$packageName = 'browserbeat'
+$packageName = $env:ChocolateyPackageName
 
 Stop-Service $packageName
 Start-Sleep -s 3

@@ -1,4 +1,4 @@
-$packageName= 'browserbeat'
+$packageName= $env:ChocolateyPackageName
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 $uninstallScript = Join-Path $toolsDir "uninstall-service-$packageName.ps1"
 
