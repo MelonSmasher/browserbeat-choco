@@ -22,9 +22,9 @@ $packageArgs = @{
   unzipLocation = $installationPath
   url           = $url
   url64bit      = $url64
-  checksum      = '74078321006380e00a52d87c16b7e8e2523abad0530e6575d229af63025989dcf8a1be603bc46dc9ccdefb88b8706754eb5ed8811312c0d4ecf06ca709c874e0'
+  checksum      = '414746baee90e443a9a74562eb044c1b37e1a0b20b447f0ab3f8f9669e8742a234cb08386e2a17042f3321b74a413aa7bb3afd10380ba1412eeb188fa4a73062'
   checksumType  = 'sha512'
-  checksum64    = '2e542d1e6527e47e6a788de2933229ebb888f55fac800f21ce7b5a7c97d5416dccabd0d276964fe03cddd0f385d62b00659dc94b5e579abdf6ba40dd4ae2ca40'
+  checksum64    = '7865a5ce29b22c1d4d0242f9cc145d9fdff1ca034faa1cbc8572efe7681a01f1b7ab6462211cfaa8d7702a2101bb806a361d3bddc4e3c50bb2611278b988ebd8'
   checksumType64= 'sha512'
   specificFolder = $folder
 }
